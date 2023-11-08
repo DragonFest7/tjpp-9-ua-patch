@@ -1,1 +1,0 @@
-# devety-pak
