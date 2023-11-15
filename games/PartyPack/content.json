@@ -1,0 +1,118 @@
+{
+  "content": [
+    {
+      "name": "Fibbage4",
+      "mainSwf": "Fibbage4.swf",
+      "icons": [
+        { "tag": "TIME", "value": "20" },
+        { "tag": "PLAYERS", "value": "2-8" },
+        { "tag": "WRITING", "value": "" },
+        { "tag": "TRIVIA", "value": "" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_1",
+      "menu":"MENU_GAME_NAME_1",
+      "video":"fibbage4",
+      "audio":"PICKER/MUSIC/Fibbage4Music",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "MakeFriends",
+      "mainSwf": "MakeFriends.swf",
+      "icons": [
+        { "tag": "TIME", "value": "25-35" },
+        { "tag": "PLAYERS", "value": "4-9" },
+        { "tag": "WRITING", "value": "" },
+        { "tag": "OUTLOUD", "value": "" },
+        { "tag": "ROLEPLAY", "value": "" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_2",
+      "menu":"MENU_GAME_NAME_2",
+      "video":"roomerang",
+      "audio":"PICKER/MUSIC/MakeFriendsMusic",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "AntiqueGame",
+      "mainSwf": "AntiqueGame.swf",
+      "icons": [
+        { "tag": "TIME", "value": "15-25" },
+        { "tag": "PLAYERS", "value": "3-8" },
+        { "tag": "WRITING", "value": "" },
+        { "tag": "OUTLOUD", "value": "" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_3",
+      "menu":"MENU_GAME_NAME_3",
+      "video":"junktopia",
+      "audio":"PICKER/MUSIC/AntiqueGameMusic",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+        "name": "RangeGame",
+        "mainSwf": "RangeGame.swf",
+        "icons": [
+          { "tag": "TIME", "value": "15-25" },
+          { "tag": "PLAYERS", "value": "3-8" },
+          { "tag": "DRAWING", "value": "" },
+          { "tag": "WRITING", "value": "" }
+        ],
+        "tagline":"INFO_TAGLINE_GAME_4",
+        "menu":"MENU_GAME_NAME_4",
+        "video":"nonsensory",
+        "audio":"PICKER/MUSIC/RangeGameMusic",
+        "videoVolume": 1.0,
+        "enabled": true
+    },
+    {
+      "name": "Lineup",
+      "mainSwf": "Lineup.swf",
+      "icons": [
+        { "tag": "TIME", "value": "15-20" },
+        { "tag": "PLAYERS", "value": "1-10" },
+        { "tag": "TEAMS", "value": "" },
+        { "tag": "TRIVIA", "value": "" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_5",
+      "menu":"MENU_GAME_NAME_5",
+      "video":"quixort",
+      "audio":"PICKER/MUSIC/LineupMusic",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "ParentalControl",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"MENU_PARENTAL_CONTROL",
+      "video":"",
+      "audio":"",      
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "Settings",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"MENU_SETTINGS",
+      "video":"",
+      "audio":"",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "HowTo",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"MENU_HOW_TO",
+      "video":"",
+      "audio":"",
+      "videoVolume": 1.0,
+      "enabled": true
+    }
+  ]
+}
